@@ -1,0 +1,7 @@
+Scenario,Model,Macro-F1 (%),Balanced Acc (%),Overall Acc (%)
+AS,densenet121,83.52,83.43,83.43
+AS,resnet18,82.89,82.78,82.78
+LT,densenet121,84.17,84.24,84.24
+LT,resnet18,84.88,84.79,84.79
+SS,densenet121,87.1,86.95,86.95
+SS,resnet18,86.19,86.27,86.27

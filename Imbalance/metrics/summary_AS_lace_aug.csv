@@ -1,0 +1,9 @@
+Scenario,Model,Method,Macro-F1 (%),Balanced Acc (%),Overall Acc (%)
+AS,densenet121,lace_cutmix,63.28,58.87,58.87
+AS,densenet121,lace_mixup,71.11,68.73,68.73
+AS,densenet121,lace_only,71.71,71.16,71.16
+AS,densenet121,lace_patch,53.22,48.97,48.97
+AS,resnet18,lace_cutmix,51.1,46.15,46.15
+AS,resnet18,lace_mixup,61.67,57.75,57.75
+AS,resnet18,lace_only,70.01,69.27,69.27
+AS,resnet18,lace_patch,43.59,41.38,41.38

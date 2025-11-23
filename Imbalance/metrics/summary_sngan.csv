@@ -1,0 +1,4 @@
+Scenario,Model,Loader,Gamma,AlphaMode,Macro-F1 (%),Balanced Acc (%),Overall Acc (%)
+LT,DenseNet121,SNGAN-balanced,,,,,
+LT,densenet121,sngan,,,84.6564049152291,84.58,84.58
+LT,densenet121,sngan,,,84.95855217013485,84.88999999999999,84.89

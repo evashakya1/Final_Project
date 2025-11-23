@@ -1,0 +1,25 @@
+Scenario,Model,Tau,Aug,Macro-F1 (%),Balanced Acc (%),Overall Acc (%)
+AS,densenet121,0.5,cutmix,77.67,77.83,77.83
+AS,resnet18,0.5,cutmix,76.85,76.95,76.95
+AS,densenet121,0.5,mixup,75.68,75.76,75.76
+AS,resnet18,0.5,mixup,74.17,74.34,74.34
+AS,densenet121,0.5,none,74.3,74.27,74.27
+AS,resnet18,0.5,none,74.04,74.22,74.22
+AS,densenet121,0.5,patchmix,75.98,76.3,76.3
+AS,resnet18,0.5,patchmix,64.19,64.92,64.92
+AS,densenet121,1.0,cutmix,76.51,76.5,76.5
+AS,resnet18,1.0,cutmix,71.4,71.58,71.58
+AS,densenet121,1.0,mixup,77.4,77.47,77.47
+AS,resnet18,1.0,mixup,76.13,76.3,76.3
+AS,densenet121,1.0,none,75.51,75.6,75.6
+AS,resnet18,1.0,none,73.79,73.94,73.94
+AS,densenet121,1.0,patchmix,75.13,75.3,75.3
+AS,resnet18,1.0,patchmix,61.35,62.18,62.18
+AS,densenet121,2.0,cutmix,72.17,72.81,72.81
+AS,resnet18,2.0,cutmix,65.69,67.38,67.38
+AS,densenet121,2.0,mixup,78.1,78.3,78.3
+AS,resnet18,2.0,mixup,72.6,73.2,73.2
+AS,densenet121,2.0,none,76.45,76.51,76.51
+AS,resnet18,2.0,none,76.31,76.34,76.34
+AS,densenet121,2.0,patchmix,65.17,67.4,67.4
+AS,resnet18,2.0,patchmix,54.91,59.04,59.04
